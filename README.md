@@ -16,3 +16,8 @@ Stocks have a known and fixed starting price. The monthly returns of a stock fol
 Stocks
 
 First let’s define some stocks that are avaliable to invest in. For simplicity the stocks are heuristically assignined with a range of average daily return $mu$ and volatility $sigma$ values. For a more realistic simulation, one could derive these values from actual investment instruments. 
+
+My published articles on this field of computational fincance can be found here:
+https://iopscience.iop.org/article/10.1088/1755-1315/997/1/012002/meta
+
+Electric vehicle, as one of the low carbon footprints, has transformed a wide range of energy and public sectors. Utilizing the WHO Covid-19 pandemic statement, we search for the optimal portfolio from the top seven Electric Vehicle (EV) enterprises in ASEAN. Using the MonteCarlo simulation of optimal risky assets portfolio, we find that before and during the pandemic, the optimal portfolio weights differ significantly. Before (during) the pandemic, the investment weight of optimal portfolio consists of Toyota Motor Corporation 49.83% (42.99%), Star 8 Corporation 23.20% (9.73%), Hyundai Motor Corporation 20.81% (10.63%), BMW.DE 2.79% (32.08%), Honda Motor Company 2.56% (0.64%), Mitsubishi Motor Corporation 0.68% (0.09%), and Nissan Motor Co. 0.14% (3.84%). The Sharpe Ratio shows how during the pandemic, the portfolio of EV stocks give more excessive return compare to their risks, from 93.55% to 250.62%. These findings support the notion of how EV stocks are investible, especially during the Covid-19 pandemic.
